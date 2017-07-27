@@ -1,4 +1,4 @@
-# Responsive Images: Project Part 1 #
+# Responsive Images: Project Part 1, 2, 3 #
 
 ## Your Goals: ##
 
@@ -28,4 +28,8 @@ Check the page with the Chrome Dev Tools:
 
 Check the page from Page Speed Insights -- lots more problems!
 
-![alt text](https://www.dropbox.com/s/qy3t4wu8xrc5hyi/Udacity_Projects-Project-Part-1-Start.png)
+-------------------
+
+## My Webpage ##
+
+![alt text](https://github.com/beroXD/Quiz-Project-Responsive-Website/blob/master/Udacity_Projects-Project-Part-1-Start.png)
